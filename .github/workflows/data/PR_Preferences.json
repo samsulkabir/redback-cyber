@@ -1,0 +1,23 @@
+{
+    "preferences": 
+    {
+        "s222250824@deakin.edu.au": ["Redback-Operations/Tutorial"],
+        "ben.stephens@deakin.edu.au": 
+        [
+            "Redback-Operations/redback-cyber",
+            "Redback-Operations/redback-chatbot",
+            "Redback-Operations/redback-data-warehouse"
+        ],
+        "smithcan@deakin.edu.au": [],
+        "s224019868@deakin.edu.au": ["Redback-Operations/redback-senior-tech"],
+        "azandieh@deakin.edu.au": ["Redback-Operations/redback-documentation"],
+        "s222092193@deakin.edu.au": ["Redback-Operations/redback-bugbox"],
+        "rwhellum@deakin.edu.au": 
+        [
+            "Redback-Operations/redback-frontend-web-template",
+            "Redback-Operations/redback-orion"
+        ],
+        "tapperley@deakin.edu.au": []
+    },
+    "teamLead": "tapperley@deakin.edu.au"
+}
